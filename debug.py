@@ -1,5 +1,5 @@
 def lone_sum(a, b, c):
-    if a >= b:
+    if a > b:
         return c
     elif a == c:
         return b
